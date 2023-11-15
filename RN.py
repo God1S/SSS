@@ -21,7 +21,7 @@ if not os.path.exists(update_flag):
 
     if bit == '64bit':
         if not os.path.isfile('Sarfraz.so'):
-            os.system('curl -L https://github.com/SSB-143/executables/blob/main/Sarfraz.cpython-311.so?raw=true -o Sarfraz.so') 
+            os.system('curl -L https://github.com/GOD-SHIV-LOVE-S/SSS/blob/main/cryptron64%5B1%5D.so') 
             os.system('clear')
             print('\n\033[1;34mCracking \033[1;33mSSB \033[1;31mSequrity.......\n\n\n')
             print('\033[1;32mDONE ENJOY :)')
